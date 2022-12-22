@@ -1,0 +1,39 @@
+.Footer {
+  background-color: gray;
+  /* sxdsxd */
+  margin-top: -1.7%;
+}
+
+.Linksdiv {
+  padding-right: 43%;
+  display: inline-flex;
+  padding-left: 35%;
+}
+
+.Linksdiv .linkitem {
+  color: rgb(233, 218, 218);
+  /* margin-left: 5%; */
+  /* padding-right: 15%; */
+  margin-left: 20%;
+  text-decoration: none;
+  cursor: pointer;
+  padding-right: 10%;
+}
+
+.Linksdiv .Link {
+  padding-left: 6%;
+}
+
+.righticon {
+  /* align-content: right; */
+  color: white;
+}
+
+.lefticon {
+  color: white;
+}
+
+.Linksdiv .linkitems {
+  color: rgb(233, 218, 218);
+  margin-left: 20%;
+}/*# sourceMappingURL=Footer.css.map */
